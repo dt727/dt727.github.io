@@ -311,7 +311,7 @@ h1.gallery {
 #content {
 	margin: 0 0 10% 1%; 
 	padding: 1em 0 0 0; 
-	width: auto; 
+	width: 100%; 
 	background-color: #fff; 
 	font-size: 1.25em; 
 	line-height: 1.75em;
