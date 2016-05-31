@@ -122,7 +122,7 @@ PAGE: PORTFOLIO
   color: #bdc3c7;
 }
 
-#gallery img {
+li img {
     padding: 2px;
     border-color: #aaa #ccc #ddd #bbb;
     border-style: solid;
