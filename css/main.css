@@ -20,6 +20,11 @@ h3 {
   margin: 0 0 1em 0; 
 }
 
+.ps {
+	padding-left: 5%;
+	padding-top: 5%;
+}
+
 /*********************
 HEADING
 **********************/
@@ -49,7 +54,6 @@ h2 {
   margin: -5px 0 0;
   font-weight: normal;
 }
-
 
 
 /*********************
@@ -122,7 +126,7 @@ PAGE: PORTFOLIO
   color: #bdc3c7;
 }
 
-
+ 
 /*********************
 PAGE: ABOUT
 **********************/
@@ -156,16 +160,18 @@ PAGE: CONTACT
 }
 
 .contact-info li.phone a {
-  background-image: url('https://dl.dropboxusercontent.com/u/10996563/phone.png');
+  background-image: url('../img/phone.png');
 }
 
 .contact-info li.mail a {
-  background-image: url('https://dl.dropboxusercontent.com/u/10996563/mail.png');
+  background-image: url('../img/mail.png');
 }
 
 .contact-info li.twitter a {
-  background-image: url('https://dl.dropboxusercontent.com/u/10996563/twitter.png');
+  background-image: url('../img/twitter.png');
 }
+ 
+
 
 /*********************
 RESUME
@@ -310,7 +316,7 @@ h1.gallery {
 #content {
 	margin: 0 0 10% 1%; 
 	padding: 1em 0 0 0; 
-	width: 100%; 
+	width: auto; 
 	background-color: #fff; 
 	font-size: 1.25em; 
 	line-height: 1.75em;
@@ -324,8 +330,8 @@ h1.gallery {
 	border-style: solid; 
 	border-width: 1px;
 	vertical-align: top; 
-	width: 160px; 
-	height: 120px;
+	width: 200px; 
+	height: 160px;
 }
 
 #content li {
