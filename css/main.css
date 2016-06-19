@@ -126,6 +126,31 @@ PAGE: PORTFOLIO
   color: #bdc3c7;
 }
 
+
+.Chevron{
+    position:absolute;
+    display:block;
+    height:50px;/*height should be double border*/
+	margin-top: 39%;
+	margin-left: 50%;
+}
+.Chevron:before,
+.Chevron:after{
+    position:absolute;
+    display:block;
+    content:"";
+    border:25px solid transparent;/*adjust size*/
+}
+/*Change four 'top' values below to rotate (top/right/bottom/left)*/
+.Chevron:before{
+    top:270;
+    border-top-color:#0099CC;/*Chevron Color*/
+}
+.Chevron:after{
+    top:-10px;/*adjust thickness*/
+    border-top-color:transparent;/*Match background colour*/
+}
+
  
 /*********************
 PAGE: ABOUT
