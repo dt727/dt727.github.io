@@ -129,6 +129,7 @@ PAGE: PORTFOLIO
 #gallery li img {
 	width: 50%;
 	height: 50%;
+	padding: 2% 0 0 4%;
 }
 
  
