@@ -132,7 +132,10 @@ PAGE: PORTFOLIO
 	margin: 2%, 0, 0, 4%;
 }
 
- 
+#gallery li img.hz {
+	width: 250px;
+	height: 160px;
+}
  
 /*********************
 PAGE: ABOUT
