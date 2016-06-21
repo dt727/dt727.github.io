@@ -132,10 +132,11 @@ PAGE: PORTFOLIO
 }
 
 #gallery li img .vert {
-	width: 200px;
-	height: 200px;
+	width: 150px;
+	height: 150px;
+	margin-left: 10%;
 }
-}
+
  
 /*********************
 PAGE: ABOUT
