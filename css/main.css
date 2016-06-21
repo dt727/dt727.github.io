@@ -126,17 +126,12 @@ PAGE: PORTFOLIO
   color: #bdc3c7;
 }
 
-#gallery li img .hz {
-	width: 250px; 
-	height: 160px;
+#gallery li img {
+	width: 25%;
+	height: 25%;
 }
 
-#gallery li img .vert {
-	width: 150px;
-	height: 150px;
-	margin-left: 10%;
-}
-
+ 
  
 /*********************
 PAGE: ABOUT
