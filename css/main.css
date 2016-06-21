@@ -126,7 +126,10 @@ PAGE: PORTFOLIO
   color: #bdc3c7;
 }
 
-
+#gallery li img {
+	width: 200px; 
+	height: 160px;
+}
  
 /*********************
 PAGE: ABOUT
