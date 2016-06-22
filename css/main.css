@@ -141,6 +141,11 @@ PAGE: PORTFOLIO
 	width: 250px;
 	height: 60px;
 }
+
+#gallery p:hover { 
+	color: #000;
+}
+ 
  
 /*********************
 PAGE: ABOUT
