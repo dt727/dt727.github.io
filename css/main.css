@@ -136,6 +136,10 @@ PAGE: PORTFOLIO
 	width: 250px;
 	height: 160px;
 }
+
+#gallery li img.tb {
+	height: 90px;
+}
  
 /*********************
 PAGE: ABOUT
