@@ -138,7 +138,8 @@ PAGE: PORTFOLIO
 }
 
 #gallery li img.tb {
-	height: 90px;
+	width: 250px;
+	height: 60px;
 }
  
 /*********************
