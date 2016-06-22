@@ -36,17 +36,6 @@ header {
   width: 100%;
 }
 
-header img {
-    behavior:url(-ms-transform.htc);
-    -moz-transform:rotate(90deg);
-    -webkit-transform:rotate(90deg);
-    -o-transform:rotate(90deg);
-    -ms-transform:rotate(90deg);
-    filter: progid:DXImageTransform.Microsoft.Matrix(sizingMethod='auto expand', M11=0.7071067811865476, M12=-0.7071067811865475, M21=0.7071067811865475, M22=0.7071067811865476); /* IE6,IE7 */
--ms-filter: "progid:DXImageTransform.Microsoft.Matrix(SizingMethod='auto expand', M11=0.7071067811865476, M12=-0.7071067811865475, M21=0.7071067811865475, M22=0.7071067811865476)"; /* IE8 */
-
-}
-
 #logo {
   text-align:center;
   margin: 0;
