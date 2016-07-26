@@ -137,6 +137,11 @@ PAGE: PORTFOLIO
 	height: 95px;
 }
 
+#gallery li img.ops{
+	width: 225px;
+	height: 55px;
+}
+
 #gallery p:hover { 
 	color: #000;
 }
