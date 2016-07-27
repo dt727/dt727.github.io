@@ -27,6 +27,7 @@ PAGE: PORTFOLIO
   clear: left 
 }
 
+ 
 
 /*********************
 PAGE: ABOUT
@@ -73,9 +74,8 @@ HEADER
     }
     
    header {
-     border-bottom: 5px solid #003366;
      margin-bottom: 60px;
+	 
     }
   }
  
-

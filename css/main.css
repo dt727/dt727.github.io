@@ -51,7 +51,6 @@ h2 {
 }
 
 
-
 /*********************
 NAVIGATION
 **********************/
@@ -122,8 +121,32 @@ PAGE: PORTFOLIO
   color: #bdc3c7;
 }
 
+#gallery li img {
+	width: 50%;
+	height: 50%;
+	margin: 2%, 0, 0, 4%;
+}
 
+#gallery li img.hz {
+	width: 250px;
+	height: 160px;
+}
 
+#gallery li img.tb {
+	width: 250px;
+	height: 95px;
+}
+
+#gallery li img.ops{
+	width: 225px;
+	height: 55px;
+}
+
+#gallery p:hover { 
+	color: #000;
+}
+ 
+ 
 /*********************
 PAGE: ABOUT
 **********************/
@@ -131,8 +154,8 @@ PAGE: ABOUT
 .profile-photo {
   display: block;
   max-width: 150px;
-  margin: 0 auto 30px;
-  border-radius: 100%; /* rounded border */
+  float: left;
+  margin: 0 5% 40px 0;
 }
 
 
@@ -167,6 +190,8 @@ PAGE: CONTACT
 .contact-info li.twitter a {
   background-image: url('../img/twitter.png');
 }
+ 
+
 
 /*********************
 RESUME
