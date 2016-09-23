@@ -185,6 +185,10 @@ PAGE: CONTACT
 /*********************
 RESUME
 **********************/
+.resume {
+	margin-top: 15%;
+}
+
 body p, ul, li {
 	color: #787878;
 }	
