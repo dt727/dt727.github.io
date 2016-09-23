@@ -78,6 +78,7 @@ nav a {
   font-weight: 800 /* this was one of the font weights from Google's custom fonts */;
   padding: 15px 10px;
 }
+
 /*********************
 FOOTER
 **********************/
@@ -91,8 +92,17 @@ footer {
 .social-icon {
   width: 20px;
   height: 20px;
-  margin: 0 5px;
+  margin: 30px 5px;
+  border: 1px solid #fff;
+  border-radius: 25px;
+  padding: 2px;
 }
+a:hover  img.social-icon {
+	border: 1px solid #1E90FF;
+	border-radius: 25px;
+	padding: 2px;
+}
+
 /*********************
 PAGE: PORTFOLIO
 **********************/
