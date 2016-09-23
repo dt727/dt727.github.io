@@ -177,13 +177,13 @@ PAGE: CONTACT
   margin: 0 0 0 10px;
 }
 .contact-info li.phone a {
-  background-image: url('../img/phone.png');
+  background-image: url('https://dl.dropboxusercontent.com/u/10996563/phone.png');
 }
 .contact-info li.mail a {
-  background-image: url('../img/mail.png');
+  background-image: url('https://dl.dropboxusercontent.com/u/10996563/mail.png');
 }
 .contact-info li.twitter a {
-  background-image: url('../img/twitter.png');
+  background-image: url('https://dl.dropboxusercontent.com/u/10996563/twitter.png');
 }
  
 /*********************
