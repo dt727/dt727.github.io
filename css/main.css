@@ -156,6 +156,9 @@ PAGE: ABOUT
   margin: 0 5% 40px 0;
 }
 
+section.about {
+ margin-top:25%;
+}
 /*********************
 PAGE: CONTACT
 **********************/
