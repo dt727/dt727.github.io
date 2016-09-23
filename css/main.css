@@ -185,9 +185,7 @@ PAGE: CONTACT
 /*********************
 RESUME
 **********************/
-.resume {
-	margin-top: 15%;
-}
+ 
 
 body p, ul, li {
 	color: #787878;
@@ -217,6 +215,7 @@ p {
  
 .contact {
 	text-align: center;
+	margin-top: 20%;
 } 
 ul.skills {
 	list-style-type: none; 
