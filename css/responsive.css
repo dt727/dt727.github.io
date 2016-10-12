@@ -53,10 +53,10 @@ HEADER
  nav {
    background: none;
    float: right;
-   font-size: 1em;
-   margin-right: 5%;
+   font-size: 1.125em;
+
    text-align: right;
-   width: 55%;
+   width: 45%;
   }
  
   #logo {
