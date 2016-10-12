@@ -13,7 +13,9 @@
     float: right;
     margin-top: 25%;
   }
-
+header {
+   position: relative;
+}
 
 
 /*********************
