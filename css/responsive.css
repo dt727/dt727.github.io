@@ -44,10 +44,6 @@ PAGE: ABOUT
 /*********************
 HEADER
 **********************/
-header {
-  font-size: 1em;
-  position: relative;
-  }
 	
 img.banner {
   display: none;	
