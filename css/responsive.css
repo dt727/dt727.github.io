@@ -27,6 +27,9 @@ PAGE: PORTFOLIO
   clear: left 
 }
 
+img.banner {
+	display: none;
+	}
  
 
 /*********************
