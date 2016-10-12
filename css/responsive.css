@@ -42,7 +42,7 @@ PAGE: ABOUT
 
   
   
-@media screen and (min-width: 660px) { 
+@media screen and (min-width: 860px) { 
 
   
   
@@ -54,14 +54,14 @@ HEADER
    background: none;
    float: right;
    font-size: 1.125em;
-   margin-right: 0%;
+   margin-right: 5%;
    text-align: right;
    width: 45%;
   }
  
   #logo {
    float: left;
-   margin-left: 0%;
+   margin-left: 5%;
    text-align: left;
    width: 45%;
   }
