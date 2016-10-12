@@ -18,7 +18,9 @@
 /*********************
 PAGE: PORTFOLIO
 **********************/
-
+#wrapper {
+  margin-top: 40%;	
+	}
 
 #gallery li {
   width: 28.3333%;
