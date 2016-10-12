@@ -45,8 +45,8 @@ PAGE: ABOUT
 HEADER
 **********************/
 header {
-  font-size: .75em;
-  position: fixed;
+  font-size: .85em;
+  position: relative;
   }
 }
   
