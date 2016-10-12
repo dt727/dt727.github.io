@@ -45,9 +45,13 @@ PAGE: ABOUT
 HEADER
 **********************/
 header {
-  font-size: .85em;
+  font-size: 1em;
   position: relative;
   }
+	
+img.banner {
+  display: none;	
+ }
 }
   
 @media screen and (min-width: 860px) { 
