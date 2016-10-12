@@ -40,6 +40,14 @@ PAGE: ABOUT
   float: left;
   margin: 0 5% 80px 0;
  }
+	
+/*********************
+HEADER
+**********************/
+header {
+  font-size: .75em;
+  position: fixed;
+  }
 }
   
 @media screen and (min-width: 860px) { 
