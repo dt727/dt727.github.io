@@ -54,14 +54,14 @@ HEADER
    background: none;
    float: right;
    font-size: 1.125em;
-
+   margin-right: 0%;
    text-align: right;
    width: 45%;
   }
  
   #logo {
    float: left;
-   margin-left: 5%;
+   margin-left: 0%;
    text-align: left;
    width: 45%;
   }
