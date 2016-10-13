@@ -7,10 +7,12 @@
   #primary {
     width: 50%;
     float: left;
+    margin-top: 25%;
   }
   #secondary {
     width: 40%;
     float: right;
+    margin-top: 25%;
   }
 
 
