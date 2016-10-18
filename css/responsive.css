@@ -1,5 +1,5 @@
 
-@media screen and (min-width: 320px) and (max-width: 659px) {
+@media screen and (min-width: 320px) {
   /*********************
   TWO COLUMN LAYOUT
   **********************/
@@ -60,7 +60,7 @@ HEADER
  nav {
    background: none;
    float: right;
-   font-size: 100%;
+   font-size: 1.125em;
    margin-right: 5%;
    text-align: right;
    width: 45%;
