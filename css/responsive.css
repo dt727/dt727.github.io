@@ -19,11 +19,9 @@
 HEADER
 **********************/
   
- nav {
+ nav ul li {
    background: none;
-   float: right;
    font-size: .75em;
-   width: 45%;
   }
  
 
