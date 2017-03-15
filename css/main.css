@@ -252,10 +252,11 @@ li.skills {
 /*********************
 PAGE: SAMPLES
 **********************/
-  #sample {
-    width: 80%;
-    float: left;
-  }
+hr {
+	color: #333;
+	padding: 10px;
+}
+ 
 
 /*********************
 COLORS
