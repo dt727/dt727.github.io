@@ -252,10 +252,7 @@ li.skills {
 /*********************
 PAGE: SAMPLES
 **********************/
-hr {
-	color: #333;
-	margin: 3%, 2%, 3%, 2%;
-}
+hr {border-top: 1px dotted #8c8b8b;}
  
 
 /*********************
