@@ -159,6 +159,7 @@ PAGE: ABOUT
 section.about {
  margin-top:20%;
 }
+
 /*********************
 PAGE: CONTACT
 **********************/
@@ -247,6 +248,16 @@ li.skills {
  
 .bold {font-weight: bold;}
 .italic {font-style: italic;}
+
+/*********************
+PAGE: SAMPLES
+**********************/
+  #sample {
+    width: 80%;
+    float: left;
+    margin-top: 25%;
+  }
+
 /*********************
 COLORS
 **********************/
